@@ -1,0 +1,22 @@
+{
+  "name": "TestB",
+  "version": "0.1.0",
+  "summary": "A short description of TestB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shevakuilin/TestB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shevakuilin": "shevakuilin@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/shevakuilin/TestB.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestB/Classes/**/*"
+}
